@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Machine Learning in Video Games**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
