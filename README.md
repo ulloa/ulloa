@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Machine Learning in Video Games**
 - 🔬 Interested in most fields, ping me if you want to collaborate
 - 🎩 I've worn all types of hats including web developer, data analyst, founder
-- 🏢 Built data science projects using Pandas, Tensorflow, Flask, and Python
+- 🏢 Built data science projects using Pandas, TensorFlow, Flask, and Python
 
 <p align="left">
 </p>
