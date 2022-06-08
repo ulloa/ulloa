@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Ulloa</h1>
-<h3 align="center">A data scientist from California.</h3>
+<h3 align="center">A software engineer from California.</h3>
 
 - 🔭 Data Engineer at Optum
 - 🔬 Interested in most fields, ping me if you want to collaborate
