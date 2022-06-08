@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Ulloa</h1>
 <h3 align="center">A data scientist from California.</h3>
 
-- 🔭 I’m currently working on **Machine Learning in Video Games**
+- 🔭 Data Engineer at Optum
 - 🔬 Interested in most fields, ping me if you want to collaborate
 - 🎩 I've worn all types of hats including web developer, data analyst, founder
 - 🏢 Built data science projects using Pandas, TensorFlow, Flask, and Python
