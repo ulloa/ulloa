@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Ulloa</h1>
 <h3 align="center">A software engineer from California.</h3>
 
-- 🔭 Data Engineer at Optum
+- 🔭 Full-time data engineer
 - 🔬 Interested in most fields, ping me if you want to collaborate
 - 🎩 I've worn all types of hats including web developer, data analyst, founder
 - 🏢 Built data science projects using Pandas, TensorFlow, Flask, and Python
